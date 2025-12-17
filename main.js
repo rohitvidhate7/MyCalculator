@@ -7,7 +7,7 @@ function appendValue(value) {
 
 // Clear display
 function clearDisplay() {
-    display.value = "";
+    display.value = ""; 
 }
 
 // Delete last character
