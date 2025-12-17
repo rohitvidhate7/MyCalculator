@@ -6,7 +6,7 @@ function appendValue(value) {
 }
 
 // Clear display
-function clearDisplay() {
+function clearDisplay() { 
     display.value = ""; 
 }
 
