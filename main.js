@@ -4,7 +4,7 @@ let display = document.getElementById("display");
 function appendValue(value) {
     display.value += value;
 }
-
+ 
 // Clear display
 function clearDisplay() { 
     display.value = ""; 
